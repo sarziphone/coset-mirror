@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Update OpenVINO INT8 export (#7515)
