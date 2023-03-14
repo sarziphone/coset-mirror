@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Update Colab notebook for YOLOv8.1 (#8660)
