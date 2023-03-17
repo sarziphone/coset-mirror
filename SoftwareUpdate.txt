@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+docs: update view-results-in-terminal.md (#66)
