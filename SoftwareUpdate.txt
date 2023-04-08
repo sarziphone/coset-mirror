@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
