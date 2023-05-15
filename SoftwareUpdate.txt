@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
