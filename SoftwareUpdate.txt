@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add Weights & Biases Docs integrations page (#7199)
