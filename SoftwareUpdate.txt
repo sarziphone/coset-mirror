@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
