@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+OpenVino 2024.0.0 (#8726)
