@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add missing single-line docstrings (#8362)
