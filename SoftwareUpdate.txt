@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
