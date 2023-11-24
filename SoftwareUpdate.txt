@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+OBB: Fix plot_images (#7592)
