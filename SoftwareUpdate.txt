@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
