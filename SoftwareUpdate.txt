@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
