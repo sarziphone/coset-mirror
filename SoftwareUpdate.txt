@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+docs: update view-results-in-terminal.md (#66)
