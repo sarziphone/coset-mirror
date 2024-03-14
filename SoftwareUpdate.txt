@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
