@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Update the heatmap module code + docs (#7045)
