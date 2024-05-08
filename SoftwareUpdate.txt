@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
