@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Optimize function calls to method calls (#8507)
