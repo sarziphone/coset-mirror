@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Avoid creating -hub dir without processing images (#8334)
