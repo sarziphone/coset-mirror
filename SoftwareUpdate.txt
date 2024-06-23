@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add Neural Magic Docs integrations page (#7234)
