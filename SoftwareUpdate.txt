@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Allow Annotator PIL.Image inputs (#8397)
