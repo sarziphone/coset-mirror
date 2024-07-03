@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Auto-format by https://ultralytics.com/actions
