@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
