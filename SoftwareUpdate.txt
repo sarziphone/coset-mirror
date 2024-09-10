@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
